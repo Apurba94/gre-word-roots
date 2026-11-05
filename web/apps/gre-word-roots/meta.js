@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-word-roots", "title": "Word Roots Explorer", "exam": "GRE", "area": "GRE Verbal", "desc": "Learn Latin and Greek roots, see the GRE words built from each, and guess new words from their parts.", "content": ["roots.json", "gre_words.json"], "n": 2};
